@@ -6,7 +6,7 @@ learning_resource_types:
 - Lecture Videos
 ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Lecture notes (PDF)](resources/mit6_006f11_lec16)'
+optional_text: '[Lecture notes (PDF)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_lec16)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''

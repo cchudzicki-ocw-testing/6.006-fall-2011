@@ -6,8 +6,9 @@ learning_resource_types:
 - Lecture Videos
 ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Lecture slides (PDF)](resources/mit6_006f11_lec03) (Courtesy of Charles
-  Leiserson, Piotr Indyk, Constantinos Daskalakis, and Srini Devadas. Used with permission.)'
+optional_text: '[Lecture slides (PDF)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_lec03)
+  (Courtesy of Charles Leiserson, Piotr Indyk, Constantinos Daskalakis, and Srini
+  Devadas. Used with permission.)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''

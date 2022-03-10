@@ -6,13 +6,14 @@ learning_resource_types:
 - Videos
 ocw_type: ''
 optional_tab_title: Recitation Notes
-optional_text: '[Recitation notes (PDF)](resources/mit6_006f11_rec05)
+optional_text: '[Recitation notes (PDF)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_rec05)
 
 
-  [Recitation handout (PDF)](resources/mit6_006f11_rec05_handout)
+  [Recitation handout (PDF)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_rec05_handout)
 
 
-  [Recitation code (ZIP)](resources/rec05_code) (This ZIP file contains: 2 .py files.)'
+  [Recitation code (ZIP)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/rec05_code)
+  (This ZIP file contains: 2 .py files.)'
 parent_title: Recitation Videos
 parent_type: CourseSection
 related_resources_text: ''

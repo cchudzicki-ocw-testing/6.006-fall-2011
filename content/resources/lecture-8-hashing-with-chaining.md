@@ -10,7 +10,7 @@ optional_text: '[Original (handwritten) notes (![This resource may not render co
   in a screen reader.](/images/inacessible.gif)PDF - 4.3MB)](resources/mit6_006f11_lec08_orig)
 
 
-  [Typed notes (PDF)](resources/mit6_006f11_lec08)'
+  [Typed notes (PDF)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_lec08)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
